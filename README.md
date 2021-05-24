@@ -1,2 +1,3 @@
 # Automatic_message_send
-In this we used selenium and whats app api to send automatic message to the given phone number. technology used are selenium,python,api
+In this we used selenium to send automatic message to various social media app such as twitter ,whatsapp ect. 
+Technology used are selenium,python,api
